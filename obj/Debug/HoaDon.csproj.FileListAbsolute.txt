@@ -1,0 +1,10 @@
+D:\Downloads\VStudio\CNPM\HoaDon\obj\Debug\HoaDon.Form1.resources
+D:\Downloads\VStudio\CNPM\HoaDon\obj\Debug\HoaDon.Properties.Resources.resources
+D:\Downloads\VStudio\CNPM\HoaDon\obj\Debug\HoaDon.csproj.GenerateResource.cache
+D:\Downloads\VStudio\CNPM\HoaDon\obj\Debug\HoaDon.csproj.CoreCompileInputs.cache
+D:\Downloads\VStudio\CNPM\HoaDon\bin\Debug\HoaDon.exe.config
+D:\Downloads\VStudio\CNPM\HoaDon\bin\Debug\HoaDon.exe
+D:\Downloads\VStudio\CNPM\HoaDon\bin\Debug\HoaDon.pdb
+D:\Downloads\VStudio\CNPM\HoaDon\obj\Debug\HoaDon.exe
+D:\Downloads\VStudio\CNPM\HoaDon\obj\Debug\HoaDon.pdb
+D:\Downloads\VStudio\CNPM\HoaDon\obj\Debug\HoaDon.csproj.AssemblyReference.cache
